@@ -1,5 +1,5 @@
-[cnNetList 0.0.0.0]
-! Last Modified: Sat, 08 Oct 2016 15:23:38 +0200
+[cnNetList 0.0.0.1]
+! Last Modified: 2016-10-11
 !
 !----------Service Unavaiable----------
 !
@@ -21,6 +21,17 @@ sdk.open.phone.igenxin.com
 log.mmstat.com
 api2.sharesdk.cn
 bdsp.x.jd.com
+!
+!
+!
+!!!---Youku---
+youku.com
+appsdk.soku.com
+nbsdk-baichuan.alicdn.com
+settings.crashlytics.com
+ykimg.com
+laifeng.com
+10.103.188.123
 !
 !
 !
@@ -81,3 +92,18 @@ api.share.mob.com
 !
 !
 !!!---Baidu Music---
+dxp.baidu.com
+hmma.baidu.com
+music.baidu.com
+ting.baidu.com
+hipphotos.baidu.com
+musicdata.baidu.com
+click.qianqian.com
+cdn.qianqian.com
+experiment.appadhoc.com
+tracker.appadhoc.com
+ss.symcb.com
+gss0.bdstatic.com
+ss0.bdstatic.com
+
+
