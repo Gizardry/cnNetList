@@ -1,5 +1,5 @@
-[cnNetList 0.0.0.0]
-! Last Modified: 2016-10-11
+[cnNetList 0.0.0.2]
+! Last Modified: 2016-10-12
 !
 !----------Service Unavaiable----------
 !
@@ -150,3 +150,31 @@ letv.com
 !!!---YINYUETAI---
 yinyuetai.com
 yytcdn.com
+!
+!
+!
+!!!---Hunan TV---
+hunantv.com
+!
+!
+!
+!!!---Migu Music---
+migu.cn
+!
+!
+!
+!!!---Douban FM---
+doubanio.com
+douban.com
+!
+!
+!
+!!!---iQiyi PPS---
+qiyi.com
+!
+!
+!
+!----------Slow Connection----------
+!
+!!!---Sina Weibo---
+sinaimg.cn
